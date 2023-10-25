@@ -4,38 +4,40 @@ class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!"); 
 
+        // added for demonstration
+        
         // please add a Hello to you like the following
 
-        //	a
-	System.out.println("Hello from Aaron");
-	System.out.println("Hello from Adrian");
-        //	b
-        //	c
-	System.out.println("Hello from Shihan");
-        //	d
-        //	e
-        //	f
-        //	g
-        //	h
-        //	i
-        //	j
-        //	k
-        //	l
-        //	m
-        //	n
-        //	o
-        System.out.println("Hello from Oscar");
-        //	p
-        System.out.println("Hello Paul"); 
-        //	q
-        //	r
-        //	s
-        //	t
-    System.out.println("Hello from Tatiana");
-        //	u
-        //	v
-        //	x
-        //	y
-        //	z
+                                //	a
+                            System.out.println("Hello from Aaron");
+                            System.out.println("Hello from Adrian");
+                                //	b
+                                //	c
+                            System.out.println("Hello from Shihan");
+                                //	d
+                                //	e
+                                //	f
+                                //	g
+                                //	h
+                                //	i
+                                //	j
+                                //	k
+                                //	l
+                                //	m
+                                //	n
+                                //	o
+                                System.out.println("Hello from Oscar");
+                                //	p
+                                System.out.println("Hello Paul"); 
+                                //	q
+                                //	r
+                                //	s
+                                //	t
+                            System.out.println("Hello from Tatiana");
+                                //	u
+                                //	v
+                                //	x
+                                //	y
+                                //	z
     }
 }
